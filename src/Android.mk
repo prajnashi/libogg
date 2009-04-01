@@ -18,4 +18,4 @@ LOCAL_C_INCLUDES := 				\
 	$(LOCAL_PATH)	\
 	$(LIBOGG_TOP)/include
 
-include $(BUILD_SHARED_LIBRARY)
+include $(BUILD_STATIC_LIBRARY)
